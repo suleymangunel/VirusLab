@@ -1,4 +1,4 @@
-# VisurLaboratory
+# Virus Laboratory
 Creating Computer Viruses for experimental use
 
 This program was written by QuickBASIC.
