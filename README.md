@@ -1,5 +1,5 @@
 <div class="sag">
-    <th><img alt="GitHub License" src="https://img.shields.io/github/license/suleymangunel/VirusLab?style=plastic&label=Label"></th>
+    <th><img alt="GitHub License" src="https://img.shields.io/github/license/suleymangunel/VirusLab?style=plastic&label=License"></th>
     <th><img alt="Static Badge" src="https://img.shields.io/badge/Language-QuickBASIC-red?style=plastic"></th>
     <th><img alt="Static Badge" src="https://img.shields.io/badge/Platform-x86-blue?style=plastic"></th>
     <th><img alt="Static Badge" src="https://img.shields.io/badge/OS-MS─DOS-black?style=plastic"></th>
