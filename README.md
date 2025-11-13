@@ -6,7 +6,7 @@
 </div>
 
 # Virus Laboratory
-Creating Computer Viruses for educational use
+Computer Virus creation software for educational use
 
 ## ⚠️ Purpose ⚠️</br>
 This project documents the behavior of a BASIC program called VL.BAS, which generates an assembly skeleton file (usually virus.asm).</br>
